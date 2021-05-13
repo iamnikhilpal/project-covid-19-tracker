@@ -8,7 +8,8 @@ In the project directory, you can run:
 
 
 ## Project view
-![Website preview](https://github.com/iamnikhilpal/project-covid-19-tracker/blob/master/website-thumbnail.png?raw=true)
+![Website preview](https://github.com/iamnikhilpal/project-covid-19-tracker/blob/master/public/website-thumbnail.png)
+
 
 ## Installation
 
